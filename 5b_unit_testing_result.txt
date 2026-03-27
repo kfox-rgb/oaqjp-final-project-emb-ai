@@ -1,0 +1,7 @@
+theia@theiadocker-kfox:/home/project/oaqjp-final-project-emb-ai$ cd /home/project/oaqjp-final-project-emb-ai
+python3.11 -m EmotionDetection.test_emotion_detection
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.649s
+
+OK
